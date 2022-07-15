@@ -49,7 +49,7 @@ Using **Chi Test** to determine if there is correlation between data features
 ***Supervised Learning***
 
 **prediction models :**
-- Logistic Regression, r2_scor
+- Logistic Regression, r2_score
 - KNN
 
 ***Unsupervised Learning***
