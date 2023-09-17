@@ -5,7 +5,7 @@
 <p align="center">Hebrew explenation video</p>
 <p align="center">https://youtu.be/M872oVq0nnc</p>
 
-# What makes an item in Amazon  a Best Seller ?
+# What makes an item in Amazon a Best Seller ?
 
 In our project we try to find out why an item is a Best Seller
 
